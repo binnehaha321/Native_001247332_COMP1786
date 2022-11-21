@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "764546428646",
+    "firebase_url": "https://expense-management-483ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "expense-management-483ed",
+    "storage_bucket": "expense-management-483ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764546428646:android:6a1d0dc5ae021b6de1d527",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.cw_1_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764546428646-vhr1k9vnlkas6rr04e6fncaur3crb7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjH2V4gIcmB_zgW8qBt8hoJojfY6rwgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764546428646-vhr1k9vnlkas6rr04e6fncaur3crb7b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764546428646:android:f349088bc3733102e1d527",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.expensemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764546428646-5g6er2u6kne8qspcuskj56mpusb6b25n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.greenwich.expensemanagement",
+            "certificate_hash": "d5e865543579400826a49e431173041a4690ac3a"
+          }
+        },
+        {
+          "client_id": "764546428646-vhr1k9vnlkas6rr04e6fncaur3crb7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjH2V4gIcmB_zgW8qBt8hoJojfY6rwgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764546428646-vhr1k9vnlkas6rr04e6fncaur3crb7b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

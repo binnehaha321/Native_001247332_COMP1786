@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/fragment_about_us.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/fragment_calendar.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/fragment_date_picker.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/fragment_delete_confirm.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/fragment_time_picker.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW1_Native_App/app/src/main/res/layout/fragment_trip_list.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/fragment_about_us.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/fragment_expense_create.xml" value="0.264" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/fragment_trip_create.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/fragment_trip_create_confirm.xml" value="0.1875" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/fragment_trip_detail.xml" value="0.1875" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/fragment_trip_list.xml" value="0.264" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/list_item_expense.xml" value="0.25" />
+        <entry key="..\:/Greenwich/Mobile/CW_1_Sample-3/app/src/main/res/layout/list_item_trip.xml" value="0.38724373576309795" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="liberica-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
